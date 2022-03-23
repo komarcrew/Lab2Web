@@ -15,3 +15,6 @@ Kemudian tambahkan deklarasi CSS Internal seperti berikut pada bagian head dokum
   ![Gambar](Css2.png)<p>
 Selanjutnya simpan perubahan yang ada,dan lakukan refresh pada browser untuk melihat hasilnya.<p>
   ![Gambar](Ss2.png)<p>
+### 3. Menambahkan Inline CSS<p>
+Kemudian tambahkan deklarasi inline CSS pada tag <p seperti berikut<p>
+  ![Gambar](Css3.png)<p>
