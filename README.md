@@ -32,3 +32,5 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
   ![Gambar](Css5.png)<p>
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.<p>
   ![Gambar](Ss5.png)<p>
+
+## Tugas Pertanyaan.<b>
