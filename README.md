@@ -34,4 +34,4 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.<p>
   ![Gambar](Ss5.png)<p>
 
 ## Tugas Pertanyaan.<b>
-![Gambar](TugasPertanyaan.png)<p>
+![Gambar](Tugas..png)<p>
