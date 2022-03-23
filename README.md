@@ -1,6 +1,7 @@
 # Praktikum Pemprograman Web
-Nama : Komarudin
-NIM  : 312010068
-Kelas : TI.20.D.1
+Nama : Komarudin <p>
+NIM  : 312010068 <p>
+Kelas : TI.20.D.1 <p>
 
 ## Belajar Dasar CSS
+### Modul Praktikum Pemprograman Web
