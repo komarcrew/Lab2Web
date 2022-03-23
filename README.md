@@ -36,7 +36,9 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.<p>
 ## Tugas Pertanyaan.<b>
 ![Gambar](Tugas..png)<p>
 ## Jawaban :
-
-1. ![Gambar](TugasNo1)<p>
-2. Mendeklarasi {h1} = semua elemen {h1} akan berubah oleh CSS <p>
+### 1. <p>![Gambar](TugasNo1.png)<p>
+### 2. Mendeklarasi {h1} = semua elemen {h1} akan berubah oleh CSS <p>
    Mendeklarasi (#intro h1) = hanya elemen h1 dengan deklarasi (#intro h1) saja yang berubah karena ID itu unik <p>  
+### 3. 
+      
+     
