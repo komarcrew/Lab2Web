@@ -7,4 +7,4 @@ Kelas : TI.20.D.1 <p>
 ### Langkah-Langkah Praktikum <p>
 ### 1. Membuat Dokumen HTML
   Buatlah dokumen HTML,seperti berikut<p>
-    
+  ![Gambar]
