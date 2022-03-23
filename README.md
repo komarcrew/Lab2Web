@@ -39,6 +39,8 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.<p>
 ### 1. <p>![Gambar](TugasNo1.png)<p>
 ### 2. Mendeklarasi {h1} = semua elemen {h1} akan berubah oleh CSS <p>
    Mendeklarasi (#intro h1) = hanya elemen h1 dengan deklarasi (#intro h1) saja yang berubah karena ID itu unik <p>  
-### 3. 
-      
-     
+### 3. Jika ketiga nya dideklarasikan secara bersamaan maka yang muncul di browser hanyalah hasil deklarasi Inline CSS.<p>
+![Gambar](TugasNo4.png)<p>
+### 4. Yang akan ditampilkan pada browser dari kedua nya adalah ID, karena ID memiliki properti lebih unik dibanding Class<p>
+ ![Gambar](TugasNo4.png)<p>
+       
